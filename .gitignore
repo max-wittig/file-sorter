@@ -1,0 +1,6 @@
+main
+vendor/
+.vscode
+file-sorter
+file-sorter.exe
+build/
